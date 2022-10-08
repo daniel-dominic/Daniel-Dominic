@@ -16,7 +16,7 @@
 
 <!-- <img align="right" width="30%" height="auto" src="extra-stuff/Gif.gif" height="30px" style="padding: 20px;"/> -->
 
-- I’m currently learning **Rust, cause It's cool.**.
+ untalented.
 </br>
 
 - Ask me of **Vim And CLI**.
@@ -25,7 +25,7 @@
 - A rustic. Loving this new experience like hell.
 <br>
 
-- Ambidexterous.
+- dexterous and demented.
  
 </br>
 </br>
