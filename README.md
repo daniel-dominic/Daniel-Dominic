@@ -16,7 +16,7 @@
 
 <!-- <img align="right" width="30%" height="auto" src="extra-stuff/Gif.gif" height="30px" style="padding: 20px;"/> -->
 
- untalented.
+- untalented.
 </br>
 
 - Ask me of **Vim And CLI**.
