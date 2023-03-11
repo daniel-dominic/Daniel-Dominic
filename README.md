@@ -11,7 +11,7 @@
 -->
 
 <h1>Who, me?</h1>
-<h4 font-weight="normal">A subtle mild mannered, patient and tenderly forgiving vimmocent by day and a churlish, grumpy and astutely critical vimquisitor by night.</h4>
+<h4 font-weight="normal">A subtle mild mannered, patient and tenderly forgiving vimmocent by day and a churlish, grumpy and astutely critical vimquisitor and a maverick by night.</h4>
 </br>
 
 <!-- <img align="right" width="30%" height="auto" src="extra-stuff/Gif.gif" height="30px" style="padding: 20px;"/> -->
