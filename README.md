@@ -156,7 +156,7 @@ Probably everything is counted ◝(ᵔᵕᵔ)◜</br>
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
