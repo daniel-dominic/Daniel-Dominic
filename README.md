@@ -10,19 +10,19 @@
  </a></div> 
 -->
 
-<h1>Welcome to parzxval's Profile</h1>
+<h1>Welcome to Parzxval's Profile</h1>
 </br> 
 /) /)</br> 
 ( ᵔ ᵕ ᵔ )</br> 
 / づ づ ~ ♡ 𝐏 𝐞 𝐫 𝐬 𝐨 𝐧 𝐚 𝐥 𝐢 𝐭 𝐲</br> 
 •Introvert</br> 
 •Perfectionist</br> 
+•Artiste
 •Logical</br> 
 •Loyal</br> 
 •Honest</br> 
 •Curious</br> 
-•Artistic</br> 
-•Forgiving</br> 
+•Artistically forgiving</br> 
 ╭────┈ ↷</br> 
 │ ✎┊ 𝐋 𝐢 𝐤 𝐞 𝐬</br> 
 │╭────────────╯</br> 
