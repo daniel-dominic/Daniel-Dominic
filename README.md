@@ -17,7 +17,7 @@
 / づ づ ~ ♡ 𝐏 𝐞 𝐫 𝐬 𝐨 𝐧 𝐚 𝐥 𝐢 𝐭 𝐲</br> 
 •Introvert</br> 
 •Perfectionist</br> 
-•Artiste
+•Artiste<br>
 •Logical</br> 
 •Loyal</br> 
 •Honest</br> 
