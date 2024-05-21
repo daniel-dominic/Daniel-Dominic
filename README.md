@@ -31,6 +31,7 @@
 ││•Cats</br> 
 ││•My room</br> 
 ││•Privacy</br> 
+││•Socializing</br> 
 ││•Philosophy</br> 
 ││•Mathematical theories</br> 
 ││•Faithful and Mature people</br> 
@@ -59,7 +60,6 @@
 ││•Not getting enough sleep</br> 
 ││•Being illogical</br> 
 ││•Gossip</br> 
-││•Socializing</br> 
 ││•Making Judgments and decisions</br> 
 ││•Being out of control</br> 
 ││•Rules</br> 
